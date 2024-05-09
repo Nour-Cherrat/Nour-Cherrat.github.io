@@ -8,6 +8,7 @@
         "@vitejs/plugin-vue2": "^2.2.0",
         "autoprefixer": "^10.4.2",
         "cross-env": "^7.0.3",
+        "laravel-mix": "^6.0.49",
         "laravel-vite-plugin": "^0.7.4",
         "lodash": "^4.17.21",
         "postcss": "^8.4.31",
